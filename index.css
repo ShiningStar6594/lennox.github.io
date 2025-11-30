@@ -235,9 +235,9 @@ footer {
  * style the border to be thicker.
 */
 hr{
-    margin: 1rem 0; 
-    border: 3px solid black;
-    width: 100%;
+    margin: 3rem 0;
+    border: none;
+    border-top: 4px solid var(--surface);
 }
 
 /* TODO 13: Assign a selector to increase the line height of content,
